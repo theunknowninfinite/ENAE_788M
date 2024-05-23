@@ -1,0 +1,4 @@
+[submodule "Simulation Codes/PX4-Offboard/src/Onboard Codes/docker_ws/src/px4_msgs"]
+	path = Simulation Codes/PX4-Offboard/src/Onboard Codes/docker_ws/src/px4_msgs
+	url = https://github.com/PX4/px4_msgs.git
+	branch = release/1.14
